@@ -1,0 +1,4 @@
+add_subdirectory(04_cvicenie)
+add_subdirectory(05_cvicenie)
+add_subdirectory(06_cvicenie)
+add_subdirectory(07_cvicenie)
